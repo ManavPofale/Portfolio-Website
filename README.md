@@ -1,8 +1,8 @@
-# 🌐 Personal Portfolio Website
+# 🌐 Personal Portfolio Website:
 
 Welcome to my personal portfolio website! This project showcases my skills, projects, education, and achievements as an aspiring Software Development Engineer (SDE) and Full Stack Developer.
 
-## 🚀 Features
+## 🚀 Features:
 
 * Responsive design for desktop, tablet, and mobile devices
 * Modern and clean user interface
@@ -13,15 +13,15 @@ Welcome to my personal portfolio website! This project showcases my skills, proj
 * Contact section
 * Smooth scrolling and interactive animations
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack:
 
-**Frontend**
+**Frontend**:-
 
 * HTML5
 * CSS3
 * JavaScript (ES6)
 
-## 📂 Project Structure
+## 📂 Project Structure:
 
 ```
 portfolio-website/
